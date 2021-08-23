@@ -19,6 +19,10 @@
     font-size: 16px;
 }
 
+.f-size-12 {
+    font-size: 12px;
+}
+
 .bg-white-github {
     background-color: #0d1117;
 }
@@ -51,9 +55,22 @@
     background-color: #005e87;
 }
 
+.bg-codeigniter {
+    background-color: #f63800;
+}
+
 .bg-node {
     background-color: #86be00;
 }
+
+.bg-vue {
+    background-color: #00bb7c;
+}
+
+.bg-git {
+    background-color: #eb4d28;
+}
+
 
 .b-black-8 {
     border: 8px solid #000000;
@@ -65,6 +82,14 @@
 
 .c-white {
     color: #ffffff;
+}
+
+.c-vue {
+    color: #31495e;
+}
+
+.c-codeigniter {
+    color: #f6f1d5;
 }
 
 .c-mysql {
