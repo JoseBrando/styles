@@ -1,1 +1,124 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p-50 {
+    padding: 50px;
+}
+
+.f-size-26 {
+    font-size: 26px;
+}
+
+.f-size-18 {
+    font-size: 18px;
+}
+
+.f-size-16 {
+    font-size: 16px;
+}
+
+.bg-white-github {
+    background-color: #0d1117;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-ts {
+    background-color: #017acb;
+}
+
+.bg-html {
+    background-color: #dd4b25;
+}
+
+.bg-css {
+    background-color: #146eb0;
+}
+
+.bg-angular {
+    background-color: #d6002f;
+}
+
+.bg-php {
+    background-color: #7377ad;
+}
+
+.bg-mysql {
+    background-color: #005e87;
+}
+
+.bg-node {
+    background-color: #86be00;
+}
+
+.b-black-8 {
+    border: 8px solid #000000;
+}
+
+.b-white-8 {
+    border: 8px solid #ffffff;
+}
+
+.c-white {
+    color: #ffffff;
+}
+
+.c-mysql {
+    color: #ea8c0f;
+}
+
+.c-node {
+    color: #403f3a;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-75 {
+    width: 75%;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.d-flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.d-grid {
+    display: grid;
+}
+
+.columns-4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.grid-gap-20 {
+    grid-gap: 20px;
+}
+
+.circle {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
